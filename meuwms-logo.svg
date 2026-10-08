@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 60" width="464" height="120">
+  <title>meuWMS</title>
+  <g transform="translate(6,6)">
+    <rect width="48" height="48" rx="11" fill="#0B4A63"/>
+    <path d="M11 34 L11 18 L18 26 L25 18 L25 34" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="30" y="26" width="8" height="8" rx="1.5" fill="#D07A3E"/>
+    <rect x="30" y="16" width="8" height="8" rx="1.5" fill="#EBB083"/>
+  </g>
+  <text x="64" y="40" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28" fill="#08374A"><tspan>meu</tspan><tspan font-weight="700">WMS</tspan></text>
+</svg>
